@@ -1,5 +1,5 @@
-# Why is this repo archived?
-I tested a different version of this script. Though it may not have as cool of a name, it is easier to use, more actively developed, and offers a `/home` conversion as well! So, after testing on my own Deck, I have decided to archive my repo with a link to theirs. If you like this version better, feel free to fork it. If you just want to use btrfs, use this:  [SteamOS Btrfs](https://gitlab.com/popsulfr/steamos-btrfs/)
+#This is a fork of an archived repo
+They prefer [SteamOS Btrfs](https://gitlab.com/popsulfr/steamos-btrfs/), but I will be updating this to work with steamOS 3.5
 
 # btrfdeck - (butter-f-deck)
 Improve your Steam Deck with eight simple steps!
