@@ -16,7 +16,7 @@ echo "Removing current files..."
 sudo rm /usr/lib/hwsupport/sdcard-mount.sh
 #sudo rm /usr/lib/hwsupport/format-sdcard.sh
 echo "Copying modified files..."
-sudo cp ./modified/sdcard-mount.sh /usr/lib/hwsupport/sdcard-mount.sh
+sudo cp ./modified/steamos-automount.sh /usr/lib/hwsupport/steamos-automount.sh
 #sudo cp ./modified/format-sdcard.sh /usr/lib/hwsupport/format-sdcard.sh
 echo "Editing new file permissions..."
 sudo chmod 755 /usr/lib/hwsupport/sdcard-mount.sh /usr/lib/hwsupport/format-sdcard.sh
