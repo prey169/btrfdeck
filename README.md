@@ -1,5 +1,5 @@
 #This is a fork of an archived repo
-They prefer [SteamOS Btrfs](https://gitlab.com/popsulfr/steamos-btrfs/), but I have updated the steam automount script to work with steamOS3.5, if anyone wants it, or if i feel like it down the road i can update the actual script for this too. Formatting script may or may not work as I am only keeping this alive enough to mount my sd card currently and... If i got a new sd card I prob wouldnt go through this hastle anymore after every update lmao.
+They prefer [SteamOS Btrfs](https://gitlab.com/popsulfr/steamos-btrfs/). I have updated the steam automount script now shipped in steamOS3.5 to work with btrfs OR ext4. if anyone wants me to, or if i feel like it down the road, i can update the script which would set this up for this too. The formatting script may or may not work as I am only keeping this alive enough to mount my sd card currently and... If i got a new sd card I prob wouldnt go through this hastle anymore after every update as it is quite the pita tbh.
 
 # btrfdeck - (butter-f-deck)
 Improve your Steam Deck with eight simple steps!
